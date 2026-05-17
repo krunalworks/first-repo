@@ -1,4 +1,4 @@
-# first-repo — Krunal
+# First-repo — Krunal
 
 ## Tools Installed
 - **Cursor IDE** — AI-powered code editor
